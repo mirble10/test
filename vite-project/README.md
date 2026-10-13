@@ -7,6 +7,7 @@
 Для запуска нужны Node.js и npm:
 
 ```bash
+cd vite-project
 npm install
 npm run dev
 ```
