@@ -8,7 +8,7 @@
 
 ```bash
 cd vite-project
-npm install
+npm install / npm i
 npm run dev
 ```
 
